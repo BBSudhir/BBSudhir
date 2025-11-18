@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Data Science | Machine Learning | AI Engineer<br>Welcome to my GitHub! I'm passionate about building intelligent systems, solving real-world problems using data, and constantly exploring the latest in AI.<br>🔥 About Me<br><br>🎓 Data Science & AI practitioner<br><br>🤖 Interested in NLP, LLMs, Deep Learning & MLOps<br><br>🧠 Love breaking down complex AI concepts into simple explanations<br><br>💼 Building skills through projects, learning roadmaps, and real-world applications
+🚀 Data Science | Machine Learning | AI Engineer<br>Welcome to my GitHub! I'm passionate about building intelligent systems, solving real-world problems using data, and constantly exploring the latest in AI.<br><br>🔥 About Me<br><br>🎓 Data Science & AI practitioner<br>🤖 Interested in NLP, LLMs, Deep Learning & MLOps<br>🧠 Love breaking down complex AI concepts into simple explanations<br>💼 Building skills through projects, learning roadmaps, and real-world applications
 
 
 ## 🌐 Socials:
